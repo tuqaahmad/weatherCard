@@ -1,0 +1,22 @@
+{
+  "name": "weather",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-loader-spinner": "^3.1.14",
+    "react-reel": "^1.2.3",
+    "react-scripts": "0.9.5",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
